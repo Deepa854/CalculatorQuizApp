@@ -8,6 +8,8 @@ public class CalculatorQuizApp {
         Random rand = new Random();
         int choice;
 
+        System.out.println("Welcome to the Mini Project!");
+
         do {
             System.out.println("====== Mini Project ======");
             System.out.println("1. Calculator");
